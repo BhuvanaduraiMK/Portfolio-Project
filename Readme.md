@@ -22,7 +22,7 @@ portfolio-website/
 
 
 ## 🚀 Live Demo
-file:///C:/Users/bhuvi/OneDrive/Documents/Desktop/manoj/portfolio/index.html[View Portfolio](#) *(optional — add GitHub Pages or Netlify link if deployed)*
+[file:///C:/Users/bhuvi/OneDrive/Documents/Desktop/manoj/portfolio/index.html](#) *(optional — add GitHub Pages or Netlify link if deployed)*
 
 ## 📬 Contact
 Feel free to reach out to me through my portfolio contact form or LinkedIn.
